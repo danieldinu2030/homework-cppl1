@@ -1,4 +1,4 @@
-# Homework-1---PCLP1
+# Homework-1-PCLP1
 A program in C that manages a fictional city with a very complicated postal system
 
 The aim is to implement a system that functions according to the following specifications:
