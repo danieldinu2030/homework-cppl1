@@ -1,4 +1,5 @@
-# Mail Delivery Program
+# Computer Programming and Programming Languages 1
+# C Mail Delivery Program
 
 This program processes and simulates mail delivery operations across multiple districts of a fictional city. It supports data input and task execution ranging from basic parsing to scoring mailmen based on delivery success.
 
